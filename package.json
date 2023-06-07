@@ -1,6 +1,7 @@
 {
   "name": "nuxt-image-issue-858",
   "private": true,
+  "packageManager": "pnpm@8.6.1",
   "scripts": {
     "dev": "nuxt dev",
     "build": "nuxt build",
